@@ -305,6 +305,10 @@ article {
     border: 5px black solid;
 }
 
+.article_right3 a{
+    color: black;
+}
+
 .article_right3 a:lick {
     color: black;
     text-decoration: none;
